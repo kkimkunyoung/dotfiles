@@ -147,6 +147,11 @@ alias ll='ls -AFGhl'
 alias mv='mv -i'
 alias mkdir='mkdir -p'
 
+alias gs='git status'
+alias gl='git log --oneline --graph --all --decorate'
+
+alias brewu='brew update && brew upgrade && brew cleanup'
+
 
 # ============================================================
 # PROMPT
